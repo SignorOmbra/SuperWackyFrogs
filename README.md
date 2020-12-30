@@ -7,6 +7,7 @@ Requires Flipper by Reselim. It's built in here, but I advise you use the latest
 - Workspace
   - Music (Sound)
   - Spawns (Folder, Contains SpawnLocations)
+  - Conveyors (Folder, Contains parts that push the character in the lobby. Velocity is based on the part's facing direction.)
   - ElevatorGround (BasePart, Used for lobby elevator.)
 - ReplicatedStorage
   - Resources (Folder)
