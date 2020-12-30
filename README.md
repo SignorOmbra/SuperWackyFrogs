@@ -1,5 +1,6 @@
 # SuperWackyFrogs
 Source code of unfinished game "Super Wacky Frogs".
+![Gameplay of the original game.](/docres/OriginalGame.mp4)
 
 # Setup
 Requires Flipper by Reselim. It's built in here, but I advise you use the latest version. ([Reselim/Flipper](https://github.com/reselim/flipper))
