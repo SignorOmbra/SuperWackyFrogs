@@ -2,7 +2,7 @@
 Source code of unfinished game "Super Wacky Frogs".
 
 # Setup
-Requires Flipper by Reselim. It's built in here, but I advise you use the latest version. (reselim/flipper)
+Requires Flipper by Reselim. It's built in here, but I advise you use the latest version. ([Reselim/Flipper](https://github.com/reselim/flipper))
 
 - Workspace
   - Music (Sound)
@@ -18,7 +18,7 @@ Requires Flipper by Reselim. It's built in here, but I advise you use the latest
 - ServerStorage
   - Events (Folder, Event models)
 
-## EXAMPLE EVENT:
+## Example Event:
 - EventRoot (Model, change name to event name)
   - EventMusic (Sound)
   - Map (Folder, Contains map parts)
