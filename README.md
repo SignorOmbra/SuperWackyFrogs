@@ -18,6 +18,9 @@ Requires Flipper by Reselim. It's built in here, but I advise you use the latest
     - Time (StringValue)
 - ServerStorage
   - Events (Folder, Event models)
+- StarterGui (ScreenGui)
+  - Status (TextLabel)
+  - Time (TextLabel)
 
 ## Example Event:
 - EventRoot (Model, change name to event name)
